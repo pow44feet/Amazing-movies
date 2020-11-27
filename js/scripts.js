@@ -399,7 +399,7 @@ $(function() {
    backdrop_opacity: 0.6,
    glow: 1,
    glow_color: "#fff",
-   
+   allowfullscreen: 1
    });
 });
 
